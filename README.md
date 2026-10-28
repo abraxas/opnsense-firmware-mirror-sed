@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/opnsense-firmware-mirror-sed">opnsense-firmware-mirror-sed</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/opnsense-firmware-mirror-sed"><strong>https://abraxaslabs.tech/research/opnsense-firmware-mirror-sed</strong></a>
+</p>
+
 
 # opnsense-firmware-mirror-sed
 
